@@ -1,0 +1,35 @@
+.nav-wrapper {
+    margin: 0 5%;
+}
+
+.input-field input[value] {
+    font-size: 15px;
+}
+
+
+.nav-form>li>input {
+    margin: 0 10px !important;
+    padding: 0 10px !important;
+    background-color: #eee !important;
+}
+
+.browser-default {
+    width: 100%;
+}
+
+.input-field>input {
+    background: white !important;
+    padding: 0 5px !important;
+}
+
+img {
+    width: 100%;
+}
+
+.sidenav>li>input {
+    width: 80% !important;
+    margin: 0 auto !important;
+    display: block !important;
+    background: #ee6e73 !important;
+    color: #ffffff !important;
+}
